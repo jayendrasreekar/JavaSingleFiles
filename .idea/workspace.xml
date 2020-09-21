@@ -16,28 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Elevator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="21" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SynchronizeThreads/SynchronizeWaitNotify.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1782">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -52,28 +34,62 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SnakeLadder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MultithreadListOperations/MultiThreadListSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-536">
+            <state relative-caret-position="-692">
               <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trie.java">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WordFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MultithreadListOperations/ListSearchExecutors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="46" column="20" selection-start-line="46" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MultithreadListOperations/ListSearchFutures.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -81,28 +97,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/producerconsumer/ArrayBlockingQueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1038">
-              <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="32" />
+            <state relative-caret-position="441">
+              <caret line="83" column="11" selection-start-line="75" selection-end-line="83" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#278#279#0" expanded="true" />
                 <element signature="e#309#310#0" expanded="true" />
                 <element signature="e#1111#1112#0" expanded="true" />
                 <element signature="e#1131#1132#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BuildHashMap/BuildHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,10 +140,15 @@
       <find>BuildHashMap</find>
       <find>s</find>
       <find>BuildHashMap.</find>
+      <find>PartitionThread</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>Partition</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,15 +165,17 @@
         <option value="$PROJECT_DIR$/src/producerconsumer/ArrayBlockingQueueExample.java" />
         <option value="$PROJECT_DIR$/src/MultiThreadListSearch.java" />
         <option value="$PROJECT_DIR$/src/MultithreadListOperations/MultiThreadListSearch.java" />
+        <option value="$PROJECT_DIR$/src/MultithreadListOperations/ListSearchExecutors.java" />
+        <option value="$PROJECT_DIR$/src/MultithreadListOperations/ListSearchFutures.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="1680" />
-    <option name="y" value="-280" />
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -181,17 +190,6 @@
               <item name="SingleFiles" type="b2602c69:ProjectViewProjectNode" />
               <item name="SingleFiles" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SingleFiles" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SingleFiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SingleFiles" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SingleFiles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="producerconsumer" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -199,6 +197,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -216,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiThreadListSearch">
+  <component name="RunManager" selected="Application.ListSearchFutures">
     <configuration name="ArrayBlockingQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="producerconsumer.ArrayBlockingQueueExample" />
       <module name="SingleFiles" />
@@ -237,6 +236,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListSearchExecutors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultithreadListOperations.ListSearchExecutors" />
+      <module name="SingleFiles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultithreadListOperations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListSearchFutures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultithreadListOperations.ListSearchFutures" />
+      <module name="SingleFiles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MultithreadListOperations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiThreadListSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultithreadListOperations.MultiThreadListSearch" />
       <module name="SingleFiles" />
@@ -244,39 +269,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizeDifferentThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SynchronizeThreads.SynchronizeDifferentThreads" />
-      <module name="SingleFiles" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SynchronizeThreads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SynchronizeWaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SynchronizeThreads.SynchronizeWaitNotify" />
-      <module name="SingleFiles" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SynchronizeThreads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListSearchFutures" />
+        <item itemvalue="Application.ListSearchExecutors" />
         <item itemvalue="Application.MultiThreadListSearch" />
         <item itemvalue="Application.ArrayBlockingQueueExample" />
         <item itemvalue="Application.BuildConcurrentHashMap" />
-        <item itemvalue="Application.SynchronizeWaitNotify" />
-        <item itemvalue="Application.SynchronizeDifferentThreads" />
       </list>
     </recent_temporary>
   </component>
@@ -290,32 +289,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600283217000</updated>
-      <workItem from="1600283220062" duration="30512000" />
+      <workItem from="1600283220062" duration="37274000" />
     </task>
+    <task id="LOCAL-00001" summary="List search with Executors and Future.">
+      <created>1600701880877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600701880878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30512000" />
+    <option name="totallyTimeSpent" value="37274000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-280" width="2560" height="1440" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1624305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.3291536" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32962137" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.31452456" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20489977" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4785789" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,6 +341,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="List search with Executors and Future." />
+    <option name="LAST_COMMIT_MESSAGE" value="List search with Executors and Future." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -349,13 +360,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WordFrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/SingleFiles/Bucket.class">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -453,10 +457,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/producerconsumer/ArrayBlockingQueueExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1038">
-          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="32" />
+        <state relative-caret-position="441">
+          <caret line="83" column="11" selection-start-line="75" selection-end-line="83" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
@@ -469,8 +488,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MultithreadListOperations/MultiThreadListSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-536">
+        <state relative-caret-position="-692">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultithreadListOperations/ListSearchExecutors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="46" column="20" selection-start-line="46" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultithreadListOperations/ListSearchFutures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
